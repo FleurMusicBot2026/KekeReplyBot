@@ -1,2 +1,5 @@
 # KekeReplyBot
 kekereplybot 
+pyrogram
+tgcrypto
+requests
